@@ -1,0 +1,28 @@
+#heading1{
+    color:blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.paraClass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chocolate;
+}
+button{
+    background-color:turquoise;
+}
+
+div{
+    width: 500px;
+    height: 500px;
+    background-color: chartreuse;
+    margin-bottom: 10px;
+    border: solid;
+    text-align: center;
+}
+
+.content{
+    color:crimson;
+}
+
+.newContent {
+    background-color: yellow;
+}
